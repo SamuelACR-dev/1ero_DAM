@@ -1,0 +1,18 @@
+Comandos GIT locales:
+git init
+git add
+git commit -m
+git status
+git pull
+git push
+git branch
+git checkout
+git log
+Agregados nuevos a partir de aqui
+git config --global user.name ""
+git config --global user.email dasdo1@gmail.com
+git config --global color.ui true
+git clone <url>
+git diff
+git diff --staged
+git fetch
