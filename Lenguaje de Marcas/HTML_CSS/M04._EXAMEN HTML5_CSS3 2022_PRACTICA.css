@@ -1,0 +1,35 @@
+body, html{
+
+
+}
+h1{
+    align-content: center;
+    font-family: Arial;
+    color: white;
+}
+
+.CajaVerdeClaro{
+    background-color: greenyellow;
+    height: 25vh;
+    
+
+grid-template-columns: repeat(2,1fr)
+}
+.Caja1I{
+    display: grid;
+    background-color: ;
+
+   
+}
+.Caja1D{
+    display: grid;
+   
+  
+    
+}
+.CajaAmarilla{
+    background-color: yellow;
+}
+.CajaRosa{
+    background-color: pink;
+}
